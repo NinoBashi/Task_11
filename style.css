@@ -1,0 +1,28 @@
+*{
+box-sizing: border-box;
+}
+
+.card {
+            margin:0 auto;
+            width:562px;
+            margin-top:150px;
+            border:1px solid #dcdcdc;
+            height: 818;
+            margin-bottom: 100;
+            background-color: #FAFAFA;
+}
+
+.   photo {
+
+    width:159.24px;
+    heigth: 147px;
+    margin: 50px;
+
+}
+.text{
+    width: 311px;
+    height: 40px;
+    margin-top:561;
+    margin:auto;
+    font-size: 19px;
+}
